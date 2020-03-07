@@ -21,7 +21,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   line in _config.yml. It will appear in your document head meta (for
   Google search results) and in your feed.xml site description.
 twitter_username: username
-github_username: username
+github_username: CodeSeterpie
 minimal_mistakes_skin: default
 search: true
 
@@ -63,9 +63,9 @@ author:
   avatar : "/assets/images/icon/icon_512px.png"
   bio    : "SEの技術力・コミュニケーション力の醸成を目的に活動しているグループです。"
   links:
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      url: "https://github.com/CodeSeterpie"
+#   - label: "Website"
+#     icon: "fas fa-fw fa-link"
+#     url: "https://github.com/CodeSeterpie"
 #   - label: "Twitter"
 #     icon: "fab fa-fw fa-twitter-square"
 #     url: "https://twitter.com/"

@@ -1,6 +1,8 @@
 main:
   - title: "Posts"
     url: /posts/
+  - title: "Kaggle Scores"
+    url: /kagglescores
   - title: "Categories"
     url: /categories/
   - title: "Tags"
