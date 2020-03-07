@@ -16,8 +16,8 @@ title: "CodeSeterpie(コードセタピー)とは"
 
 * みんなで解決します
 
-## Github Menu
-* [活動記録](https://github.com/CodeSeterpie/CodeSeterpie/wiki#%E6%B4%BB%E5%8B%95%E8%A8%98%E9%8C%B2)  
+## Menu
+* [活動記録](https://codeseterpie.github.io/)  
   これまでに開催した会ごとのKaggleスコア、考察、課題等をまとめています。
 * [環境構築](https://github.com/CodeSeterpie/CodeSeterpie/wiki/%E7%92%B0%E5%A2%83%E6%A7%8B%E7%AF%89)  
   実際にデータ分析を行うために必要なDocker、JupyterLabなどの実行環境の構築手順をまとめています。
