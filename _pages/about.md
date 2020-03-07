@@ -3,7 +3,7 @@ permalink: /about/
 title: "About"
 ---
 
-<img src="https://github.com/CodeSeterpie/CodeSeterpie.github.io/blob/master/assets/images/SocialPreview/SocialPreview.jpeg">
+<img src="./assets/images/SocialPreview/SocialPreview.jpeg">
 
 ## CodeSeterpie(コードセタピー)とは
 このグループはSEの技術力・コミュニケーション力の醸成を目的に活動しています。  
