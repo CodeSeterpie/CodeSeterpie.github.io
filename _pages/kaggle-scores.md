@@ -16,3 +16,8 @@ title: "Kaggle scores"
 |2020/01/11|House Prices|0.25883|4760|[[活動記録 20200111]]|
 
 ※太字は前回より良くなったスコア
+
+#### House Pricesのスコア
+House Pricesのスコアは下の数式の通り、真の値と予測値のlogをとった値のRMSE(Root Mean Squared Error:平均平方二乗誤差)の評価指標で計算されます。
+
+![評価指標_HousePrices](/assets/images/github/%E8%A9%95%E4%BE%A1%E6%8C%87%E6%A8%99_HousePrices.jpg)
