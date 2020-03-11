@@ -2,9 +2,9 @@ main:
   - title: "Posts"
     url: /posts/
   - title: "Kaggle Scores"
-    url: /kagglescores
-  - title: "Categories"
-    url: /categories/
+    url: /kagglescores/
+  - title: "Github menu"
+    url: /githubmenu/
   - title: "Tags"
     url: /tags/
   - title: "About"
