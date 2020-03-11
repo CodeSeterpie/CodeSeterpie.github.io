@@ -3,7 +3,7 @@ main:
     url: /posts/
   - title: "Kaggle Scores"
     url: /kagglescores/
-  - title: "Github menu"
+  - title: "GitHub Menu"
     url: /githubmenu/
   - title: "Tags"
     url: /tags/
