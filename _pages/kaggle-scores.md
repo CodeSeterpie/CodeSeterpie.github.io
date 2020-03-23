@@ -5,7 +5,8 @@ title: "Kaggle scores"
 
 |日付|コンペ|スコア|順位|詳細|
 |:---|:---|---:|---:|:---|
-|2020/03/21|-|-|-|-|
+|2020/03/28|-|-|-|-|
+|2020/03/21|House Prices|**0.13250**|1605|[活動記録 2020/03/21](https://codeseterpie.github.io/blog/report_20200321/)|
 |2020/03/14|House Prices|0.13524|1986|[活動記録 2020/03/14](https://codeseterpie.github.io/blog/report_20200314/)|
 |2020/03/07|House Prices|0.13524|1986|[活動記録 2020/03/07](https://codeseterpie.github.io/blog/report_20200307/)|
 |2020/02/29|House Prices|**0.13524**|1986|[活動記録 2020/02/29](https://codeseterpie.github.io/blog/report_20200229/)|
