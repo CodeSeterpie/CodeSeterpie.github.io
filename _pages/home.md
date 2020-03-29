@@ -2,7 +2,7 @@
 layout: splash
 permalink: /
 header:
-  overlay_color: "#5e616c"
+  overlay_color: "#2b2b2b"
   overlay_image: /assets/images/SocialPreview/SocialPreview.jpeg
   actions:
     - label: "<i class='fab fa-fw fa-github'></i> GitHub"
