@@ -8,8 +8,7 @@ header:
     - label: "<i class='fab fa-fw fa-github'></i> GitHub"
       url: "https://github.com/CodeSeterpie/CodeSeterpie"
 excerpt: >
-　<font color="#595857">SEの技術力・コミュニケーション力の醸成を目的に活動しているグループです。今の具体的な活動は、Googleの子会社が運営するAIのコンペティションプラットフォーム『Kaggle（カグル）』に、素人ながらプライベートで参加しています。</font>
-  
+  <font color="#595857">SEの技術力・コミュニケーション力の醸成を目的に活動しているグループです。今の具体的な活動は、Googleの子会社が運営するAIのコンペティションプラットフォーム『Kaggle（カグル）』に、素人ながらプライベートで参加しています。</font>
 ---
 
 |日付|コンペ|スコア|順位|詳細|
