@@ -32,5 +32,5 @@ excerpt: >
 #### House Pricesのスコア
 House Pricesのスコアは下の数式の通り、真の値と予測値のlogをとった値のRMSE(Root Mean Squared Error:平均平方二乗誤差)の評価指標で計算されます。
 
-![評価指標_HousePrices](/assets/images/github/%E8%A9%95%E4%BE%A1%E6%8C%87%E6%A8%99_HousePrices.jpg)
+<img src="/assets/images/github/%E8%A9%95%E4%BE%A1%E6%8C%87%E6%A8%99_HousePrices.jpg" witdh="300">
 
