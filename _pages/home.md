@@ -3,13 +3,12 @@ layout: splash
 permalink: /
 header:
   overlay_color: "#5e616c"
-  overlay_image: /assets/images/SocialPreview/SocialPreview.jpeg
+  overlay_image: /assets/images/icon/homeimage.jpeg
   actions:
-    - label: "<i class='fas fa-download'></i> Install now"
-      url: "/docs/quick-start-guide/"
+    - label: "<i class='fas fa-download'></i> GitHub"
+      url: "https://github.com/CodeSeterpie/CodeSeterpie"
 excerpt: >
-  A flexible two-column Jekyll theme. Perfect for building personal sites, blogs, and portfolios.<br />
-  <small><a href="https://github.com/mmistakes/minimal-mistakes/releases/tag/4.19.1">Latest release v4.19.1</a></small>  
+  SEの技術力・コミュニケーション力の醸成を目的に活動しているグループです。 
 ---
 
 |日付|コンペ|スコア|順位|詳細|
