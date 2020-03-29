@@ -3,12 +3,12 @@ layout: splash
 permalink: /
 header:
   overlay_color: "#2b2b2b"
-  overlay_image: /assets/images/SocialPreview/SocialPreview.jpeg
+  overlay_image: /assets/images/icon/homeimage.jpeg
   actions:
     - label: "<i class='fab fa-fw fa-github'></i> GitHub"
       url: "https://github.com/CodeSeterpie/CodeSeterpie"
 excerpt: >
-  <font color="#c0c6c9">SEの技術力・コミュニケーション力の醸成を目的に活動しているグループです。今の具体的な活動は、Googleの子会社が運営するAIのコンペティションプラットフォーム『Kaggle（カグル）』に、素人ながらプライベートで参加しています。</font>
+  SEの技術力・コミュニケーション力の醸成を目的に活動しているグループです。今の具体的な活動は、Googleの子会社が運営するAIのコンペティションプラットフォーム『Kaggle（カグル）』に、素人ながらプライベートで参加しています。
 ---
 
 |日付|コンペ|スコア|順位|詳細|
