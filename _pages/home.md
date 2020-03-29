@@ -3,9 +3,9 @@ layout: splash
 permalink: /
 header:
   overlay_color: "#5e616c"
-  overlay_image: /assets/images/icon/homeimage.jpeg
+  overlay_image: /assets/images/SocialPreview/SocialPreview.jpeg
   actions:
-    - label: "<i class='fas fa-download'></i> GitHub"
+    - label: "<i class='fab fa-fw fa-github'></i> GitHub"
       url: "https://github.com/CodeSeterpie/CodeSeterpie"
 excerpt: >
   SEの技術力・コミュニケーション力の醸成を目的に活動しているグループです。 
