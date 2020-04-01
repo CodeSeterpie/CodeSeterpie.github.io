@@ -30,17 +30,6 @@ excerpt: >
 
 ※太字は前回より良くなったスコア
 
-<h1>Latest Posts</h1>
-
-<ul>
-  {% for post in site.posts %}
-    <li>
-      <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
-      {{ post.excerpt }}
-    </li>
-  {% endfor %}
-</ul>
-
 #### House Pricesのスコア
 House Pricesのスコアは下の数式の通り、真の値と予測値のlogをとった値のRMSE(Root Mean Squared Error:平均平方二乗誤差)の評価指標で計算されます。
 
