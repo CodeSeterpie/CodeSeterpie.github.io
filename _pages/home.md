@@ -31,8 +31,6 @@ excerpt: >
 
 ※太字は前回より良くなったスコア
 
-{{ content }}
-
 <h3 class="archive__subtitle">{{ site.data.ui-text[site.locale].recent_posts | default: "Recent Posts" }}</h3>
 
 {% if paginator %}
