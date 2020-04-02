@@ -10,8 +10,6 @@ header:
 excerpt: >
   SEの技術力・コミュニケーション力の醸成を目的に活動しているグループです。今の具体的な活動は、Googleの子会社が運営するAIのコンペティションプラットフォーム『Kaggle（カグル）』に、素人ながらプライベートで参加しています。
 ---
-
-<p align="center"">
   
 <img src="/assets/images/home/kaggle_score.jpg" width="800">
 
@@ -32,9 +30,8 @@ excerpt: >
 
 ※太字は前回より良くなったスコア
 
-</p>
 
-<h2 class="archive__subtitle">{{ site.data.ui-text[site.locale].recent_posts | default: "Recent Posts" }}</h3>
+<h2 class="archive__subtitle">{{ site.data.ui-text[site.locale].recent_posts | default: "Recent Posts" }}</h2>
 
 {% if paginator %}
   {% assign posts = paginator.posts %}
