@@ -12,7 +12,7 @@ excerpt: >
 
 ---
 
-### Kaggleスコア
+## Kaggleスコア
 
 <img src="/assets/images/home/kaggle_score.jpg" width="800">
 
