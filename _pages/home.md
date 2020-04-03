@@ -37,7 +37,7 @@ excerpt: >
 
 ※太字は前回より良くなったスコア
 
-
+</table>
 
 <h2 class="archive__subtitle">{{ site.data.ui-text[site.locale].recent_posts | default: "Recent Posts" }}</h2>
 
