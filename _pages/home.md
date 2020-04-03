@@ -9,6 +9,7 @@ header:
       url: "https://github.com/CodeSeterpie/CodeSeterpie"
 excerpt: >
   SEの技術力・コミュニケーション力の醸成を目的に活動しているグループです。今の具体的な活動は、Googleの子会社が運営するAIのコンペティションプラットフォーム『Kaggle（カグル）』に、素人ながらプライベートで参加しています。
+author_profile: true
 ---
   
 <img src="/assets/images/home/kaggle_score.jpg" width="800">
