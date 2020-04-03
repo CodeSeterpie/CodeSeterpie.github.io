@@ -12,6 +12,8 @@ excerpt: >
 
 ---
 
+### Kaggleスコア
+
 <img src="/assets/images/home/kaggle_score.jpg" width="800">
 
 |日付|コンペ|スコア|順位|詳細|
