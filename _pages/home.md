@@ -16,6 +16,8 @@ excerpt: >
 
 <img src="/assets/images/home/kaggle_score.jpg" width="800">
 
+</div>
+
 |日付|コンペ|スコア|順位|詳細|
 |:---|:---|---:|---:|:---|
 |2020/03/28|House Prices|**0.13149**|1554|[活動記録 2020/03/28](https://codeseterpie.github.io/blog/report_20200328/)|
@@ -33,13 +35,13 @@ excerpt: >
 
 ※太字は前回より良くなったスコア
 
-</div>
+
 
 <h2 class="archive__subtitle">{{ site.data.ui-text[site.locale].recent_posts | default: "Recent Posts" }}</h2>
 
-{% assign posts = site.posts limit:5 %}
+{% assign posts = site.posts %}
 
-{% for post in posts %}
+{% for post in posts limit:5 %}
   {% include archive-single.html %}
 {% endfor %}
 
