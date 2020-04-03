@@ -9,9 +9,11 @@ header:
       url: "https://github.com/CodeSeterpie/CodeSeterpie"
 excerpt: >
   SEの技術力・コミュニケーション力の醸成を目的に活動しているグループです。今の具体的な活動は、Googleの子会社が運営するAIのコンペティションプラットフォーム『Kaggle（カグル）』に、素人ながらプライベートで参加しています。
-author_profile: true
+
 ---
   
+<div align="center">
+
 <img src="/assets/images/home/kaggle_score.jpg" width="800">
 
 |日付|コンペ|スコア|順位|詳細|
@@ -31,23 +33,14 @@ author_profile: true
 
 ※太字は前回より良くなったスコア
 
+</div>
 
 <h2 class="archive__subtitle">{{ site.data.ui-text[site.locale].recent_posts | default: "Recent Posts" }}</h2>
 
-{% if paginator %}
-  {% assign posts = paginator.posts %}
-{% else %}
-  {% assign posts = site.posts %}
-{% endif %}
+{% assign posts = site.posts limit:5 %}
 
 {% for post in posts %}
   {% include archive-single.html %}
 {% endfor %}
 
-{% include paginator.html %}
-
-#### House Pricesのスコア
-House Pricesのスコアは下の数式の通り、真の値と予測値のlogをとった値のRMSE(Root Mean Squared Error:平均平方二乗誤差)の評価指標で計算されます。
-
-<img src="/assets/images/github/%E8%A9%95%E4%BE%A1%E6%8C%87%E6%A8%99_HousePrices.jpg" width="500">
 
