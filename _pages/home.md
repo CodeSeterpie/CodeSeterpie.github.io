@@ -1,5 +1,6 @@
 ---
 permalink: /
+title: "CodeSeterpie"
 header:
   overlay_color: "#2b2b2b"
   overlay_image: /assets/images/icon/homeimage.jpeg
@@ -10,14 +11,9 @@ excerpt: >
   SEの技術力・コミュニケーション力の醸成を目的に活動しているグループです。今の具体的な活動は、Googleの子会社が運営するAIのコンペティションプラットフォーム『Kaggle（カグル）』に、素人ながらプライベートで参加しています。
 
 ---
-
 ## Kaggleスコア
 
-<div align="center">
-
 <img src="/assets/images/home/kaggle_score.jpg" width="800">
-
-</div>
 
 |日付|コンペ|スコア|順位|詳細|
 |:---|:---|---:|---:|:---|
