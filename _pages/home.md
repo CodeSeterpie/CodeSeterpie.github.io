@@ -1,5 +1,4 @@
 ---
-layout: splash
 permalink: /
 header:
   overlay_color: "#2b2b2b"
@@ -11,14 +10,14 @@ excerpt: >
   SEの技術力・コミュニケーション力の醸成を目的に活動しているグループです。今の具体的な活動は、Googleの子会社が運営するAIのコンペティションプラットフォーム『Kaggle（カグル）』に、素人ながらプライベートで参加しています。
 
 ---
-  
+
+## Kaggleスコア
+
 <div align="center">
 
 <img src="/assets/images/home/kaggle_score.jpg" width="800">
 
 </div>
-
-<table align="center">
 
 |日付|コンペ|スコア|順位|詳細|
 |:---|:---|---:|---:|:---|
@@ -37,9 +36,7 @@ excerpt: >
 
 ※太字は前回より良くなったスコア
 
-</table>
-
-<h2 class="archive__subtitle">{{ site.data.ui-text[site.locale].recent_posts | default: "Recent Posts" }}</h2>
+## Recent Posts
 
 {% assign posts = site.posts %}
 
