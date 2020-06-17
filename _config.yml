@@ -14,7 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 local: "ja"
-title: CodeSeterpie - コードセタピー
+title: CodeSeterpie
 email:
 description: >- # this means to ignore newlines until "baseurl:"
   SEの技術力・コミュニケーション力の醸成を目的に活動しているグループです。
@@ -57,7 +57,7 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "CodeSeterpie"
+  name   : "CodeSeterpie | コードセタピー"
   avatar : "/assets/images/icon/icon_512px.png"
   bio    : "SEの技術力・コミュニケーション力の醸成を目的に活動しているグループです。"
   links:
