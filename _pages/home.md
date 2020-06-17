@@ -8,7 +8,7 @@ header:
     - label: "<i class='fab fa-fw fa-github'></i> GitHub"
       url: "https://github.com/CodeSeterpie/CodeSeterpie"
 excerpt: >
-  SEの技術力・コミュニケーション力の醸成を目的に活動しているグループです。今の具体的な活動は、Googleの子会社が運営するAIのコンペティションプラットフォーム『Kaggle（カグル）』に、素人ながらプライベートで参加しています。
+  CodeSeterpie(コードセタピー)は、SEの技術力・コミュニケーション力の醸成を目的に活動しているグループです。今の具体的な活動は、Googleの子会社が運営するAIのコンペティションプラットフォーム『Kaggle（カグル）』に、素人ながらプライベートで参加しています。
 
 ---
 
