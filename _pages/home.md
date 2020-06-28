@@ -18,7 +18,7 @@ excerpt: >
 
 |日付|コンペ|スコア|順位|詳細|
 |:---|:---|---:|---:|:---|
-|2020/06/27|House Prices|**0.11992**|1119|[活動記録 2020/06/27](https://codeseterpie.github.io/blog/report_20200627/)|
+|2020/06/27|House Prices|**0.11992**|823|[活動記録 2020/06/27](https://codeseterpie.github.io/blog/report_20200627/)|
 |2020/06/13|House Prices|**0.12255**|1119|[活動記録 2020/06/13](https://codeseterpie.github.io/blog/report_20200613/)|
 |2020/06/06|House Prices|0.12993|1569|[活動記録 2020/06/06](https://codeseterpie.github.io/blog/report_20200606/)|
 |2020/05/30|House Prices|0.12993|1569|[活動記録 2020/05/30](https://codeseterpie.github.io/blog/report_20200530/)|
