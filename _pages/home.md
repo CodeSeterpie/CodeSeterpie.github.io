@@ -12,6 +12,15 @@ excerpt: >
 
 ---
 
+
+## Kaggle - Predict Future Salesスコア
+
+|日付|スコア|順位|詳細|
+|:---|---:|---:|:---|
+|2020/08/29|**1.76312**|7546|[活動記録 2020/08/29](https://codeseterpie.github.io/blog/report_20200829/)|
+|2020/07/11|-|-|[活動記録 2020/07/11](https://codeseterpie.github.io/blog/report_20200711/)|
+|2020/07/04|-|-|[活動記録 2020/07/04](https://codeseterpie.github.io/blog/report_20200704/)|
+
 ## Kaggle - House Pricesスコア
 
 <img src="/assets/images/home/kaggle_score.jpg" width="800">
