@@ -16,26 +16,27 @@ excerpt: >
 
 <img src="/assets/images/home/kaggle_score.jpg" width="800">
 
-|日付|コンペ|スコア|順位|詳細|
-|:---|:---|---:|---:|:---|
-|2020/06/27|House Prices|**0.11992**|823|[活動記録 2020/06/27](https://codeseterpie.github.io/blog/report_20200627/)|
-|2020/06/13|House Prices|**0.12255**|1119|[活動記録 2020/06/13](https://codeseterpie.github.io/blog/report_20200613/)|
-|2020/06/06|House Prices|0.12993|1569|[活動記録 2020/06/06](https://codeseterpie.github.io/blog/report_20200606/)|
-|2020/05/30|House Prices|0.12993|1569|[活動記録 2020/05/30](https://codeseterpie.github.io/blog/report_20200530/)|
-|2020/05/23|House Prices|0.12993|1569|[活動記録 2020/05/23](https://codeseterpie.github.io/blog/report_20200523/)|
-|2020/05/09|House Prices|**0.12993**|1569|[活動記録 2020/05/09](https://codeseterpie.github.io/blog/report_20200509/)|
-|2020/03/28|House Prices|**0.13149**|1554|[活動記録 2020/03/28](https://codeseterpie.github.io/blog/report_20200328/)|
-|2020/03/21|House Prices|**0.13250**|1605|[活動記録 2020/03/21](https://codeseterpie.github.io/blog/report_20200321/)|
-|2020/03/14|House Prices|0.13524|1986|[活動記録 2020/03/14](https://codeseterpie.github.io/blog/report_20200314/)|
-|2020/03/07|House Prices|0.13524|1986|[活動記録 2020/03/07](https://codeseterpie.github.io/blog/report_20200307/)|
-|2020/02/29|House Prices|**0.13524**|1986|[活動記録 2020/02/29](https://codeseterpie.github.io/blog/report_20200229/)|
-|2020/02/22|House Prices|0.13573|2374|[活動記録 2020/02/22](https://codeseterpie.github.io/blog/report_20200222/)|
-|2020/02/15|House Prices|**0.13573**|2374|[活動記録 2020/02/15](https://codeseterpie.github.io/blog/report_20200215/)|
-|2020/02/08|House Prices|**0.13815**|2567|[活動記録 2020/02/08](https://codeseterpie.github.io/blog/report_20200208/)|
-|2020/02/01|House Prices|**0.22697**|4336|[活動記録 2020/02/01](https://codeseterpie.github.io/blog/report_20200201/)|
-|2020/01/25|House Prices|0.24105|-|[活動記録 2020/01/25](https://codeseterpie.github.io/blog/report_20200125/)|
-|2020/01/18|House Prices|**0.23934**|4587|[活動記録 2020/01/18](https://codeseterpie.github.io/blog/report_20200118/)|
-|2020/01/11|House Prices|0.25883|4760|[活動記録 2020/01/11](https://codeseterpie.github.io/blog/report_20200111/)|
+|日付|スコア|順位|詳細|
+|:---|---:|---:|:---|
+|2020/06/27|**0.11992**|823|[活動記録 2020/06/27](https://codeseterpie.github.io/blog/report_20200627/)|
+|2020/06/13|**0.12255**|1119|[活動記録 2020/06/13](https://codeseterpie.github.io/blog/report_20200613/)|
+|2020/06/06|0.12993|1569|[活動記録 2020/06/06](https://codeseterpie.github.io/blog/report_20200606/)|
+|2020/05/30|0.12993|1569|[活動記録 2020/05/30](https://codeseterpie.github.io/blog/report_20200530/)|
+|2020/05/23|0.12993|1569|[活動記録 2020/05/23](https://codeseterpie.github.io/blog/report_20200523/)|
+|2020/05/09|**0.12993**|1569|[活動記録 2020/05/09](https://codeseterpie.github.io/blog/report_20200509/)|
+|2020/03/28|**0.13149**|1554|[活動記録 2020/03/28](https://codeseterpie.github.io/blog/report_20200328/)|
+|2020/03/21|**0.13250**|1605|[活動記録 2020/03/21](https://codeseterpie.github.io/blog/report_20200321/)|
+|2020/03/14|0.13524|1986|[活動記録 2020/03/14](https://codeseterpie.github.io/blog/report_20200314/)|
+|2020/03/07|0.13524|1986|[活動記録 2020/03/07](https://codeseterpie.github.io/blog/report_20200307/)|
+|2020/02/29|**0.13524**|1986|[活動記録 2020/02/29](https://codeseterpie.github.io/blog/report_20200229/)|
+|2020/02/22|0.13573|2374|[活動記録 2020/02/22](https://codeseterpie.github.io/blog/report_20200222/)|
+|2020/02/15|**0.13573**|2374|[活動記録 2020/02/15](https://codeseterpie.github.io/blog/report_20200215/)|
+|2020/02/08|**0.13815**|2567|[活動記録 2020/02/08](https://codeseterpie.github.io/blog/report_20200208/)|
+|2020/02/01|**0.22697**|4336|[活動記録 2020/02/01](https://codeseterpie.github.io/blog/report_20200201/)|
+|2020/01/25|0.24105|-|[活動記録 2020/01/25](https://codeseterpie.github.io/blog/report_20200125/)|
+|2020/01/18|**0.23934**|4587|[活動記録 2020/01/18](https://codeseterpie.github.io/blog/report_20200118/)|
+|2020/01/11|0.25883|4760|[活動記録 2020/01/11](https://codeseterpie.github.io/blog/report_20200111/)|
+
 
 ※太字は前回より良くなったスコア
 
