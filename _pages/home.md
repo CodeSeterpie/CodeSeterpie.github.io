@@ -17,6 +17,7 @@ excerpt: >
 
 |日付|スコア|順位|詳細|
 |:---|---:|---:|:---|
+|2020/09/12|1.76312|7546|[活動記録 2020/09/12](https://codeseterpie.github.io/blog/report_20200912/)|
 |2020/08/29|**1.76312**|7546|[活動記録 2020/08/29](https://codeseterpie.github.io/blog/report_20200829/)|
 |2020/07/11|-|-|[活動記録 2020/07/11](https://codeseterpie.github.io/blog/report_20200711/)|
 |2020/07/04|-|-|[活動記録 2020/07/04](https://codeseterpie.github.io/blog/report_20200704/)|
