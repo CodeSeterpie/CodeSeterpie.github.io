@@ -17,7 +17,7 @@ title: "CodeSeterpie(コードセタピー)とは"
 * みんなで解決します
 
 ## Githubへのリンク
-* [First Setp](https://github.com/CodeSeterpie/CodeSeterpie/wiki/%E7%92%B0%E5%A2%83%E6%A7%8B%E7%AF%89)  
+* [First Setp](https://github.com/CodeSeterpie/CodeSeterpie/wiki/First-Step)  
   各プロジェクトに初めて参加するときに、読んでおいて欲しいことをまとめています。
 * [活動記録](https://github.com/CodeSeterpie/CodeSeterpie/wiki)  
   これまでに開催した会ごとのKaggleスコア、考察、課題等をまとめています。
