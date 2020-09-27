@@ -17,10 +17,13 @@ excerpt: >
 
 |日付|スコア|順位|詳細|
 |:---|---:|---:|:---|
+|2020/09/26|1.76312|7546|[活動記録 2020/09/12](https://codeseterpie.github.io/blog/report_20200926/)|
 |2020/09/12|1.76312|7546|[活動記録 2020/09/12](https://codeseterpie.github.io/blog/report_20200912/)|
 |2020/08/29|**1.76312**|7546|[活動記録 2020/08/29](https://codeseterpie.github.io/blog/report_20200829/)|
 |2020/07/11|-|-|[活動記録 2020/07/11](https://codeseterpie.github.io/blog/report_20200711/)|
 |2020/07/04|-|-|[活動記録 2020/07/04](https://codeseterpie.github.io/blog/report_20200704/)|
+
+※太字は前回より良くなったスコア
 
 ## Kaggle - House Pricesスコア
 
@@ -46,7 +49,6 @@ excerpt: >
 |2020/01/25|0.24105|-|[活動記録 2020/01/25](https://codeseterpie.github.io/blog/report_20200125/)|
 |2020/01/18|**0.23934**|4587|[活動記録 2020/01/18](https://codeseterpie.github.io/blog/report_20200118/)|
 |2020/01/11|0.25883|4760|[活動記録 2020/01/11](https://codeseterpie.github.io/blog/report_20200111/)|
-
 
 ※太字は前回より良くなったスコア
 
