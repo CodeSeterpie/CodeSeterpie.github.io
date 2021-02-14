@@ -13,6 +13,7 @@ excerpt: >
 ---
 
 ## PythonでExcel編集
+* [活動記録 2021.02.13](https://codeseterpie.github.io/blog/report_20210213/) 単独実行可能なExcel編集をするPythonプログラムをどうやってつくるか
 * [活動記録 2021.01.30](https://codeseterpie.github.io/blog/report_20210130/) Excelマクロの代わりにPythonでExcel編集をするプログラムを作る！
 
 ## Kaggle - Predict Future Salesスコア
